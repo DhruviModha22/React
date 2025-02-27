@@ -6,7 +6,7 @@ const App = () => {
   const [loading, setLoading] = useState(true);
 
   useEffect(()=>{
-    fetch("https://fakestoreapi.com/products")
+    fetch("https://fakestoreapi.com/products")  
     .then((response)=>response.json())
     .then((res)=>{
       setProduct(res)
