@@ -1,0 +1,164 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Wireless Bluetooth Headphones",
+            "category": "Electronics",
+            "price": 59.99,
+            "image": "https://m.media-amazon.com/images/I/51yYK4RGtLL.jpg",
+            "description": "Wireless Bluetooth Headphones"
+        },
+        {
+            "id": 2,
+            "name": "Smartphone 128GB",
+            "category": "Electronics",
+            "price": 699.99,
+            "image": "https://m.media-amazon.com/images/I/61Y7gRLAKyL.jpg",
+            "description": "Smartphone 128GB"
+        },
+        {
+            "id": 3,
+            "name": "Gaming Laptop",
+            "category": "Computers",
+            "price": 1299.99,
+            "image": "https://media.istockphoto.com/id/1399174861/photo/gaming-laptop-computer-isolated-on-white.jpg?s=612x612&w=0&k=20&c=mBDSW82ipuMBFNqXZ5iq0PJwd_tl23XvEEnPkvaLRlA=",
+            "description": "Gaming Laptop"
+        },
+        {
+            "id": 4,
+            "name": "Mechanical Keyboard",
+            "category": "Accessories",
+            "price": 89.99,
+            "image": "https://media.istockphoto.com/id/1313504623/photo/rainbow-keyboard-gaming-keyboard-with-rgb-light-backlit-keyboard-in-a-dark-room-copy-space.jpg?s=612x612&w=0&k=20&c=97HFzOCdY6zRjMp-Hp9LzO6zYCRwH2_YflQsXP5gRV8=",
+            "description": "Mechanical Keyboard"
+        },
+        {
+            "id": 5,
+            "name": "Wireless Mouse",
+            "category": "Accessories",
+            "price": 29.99,
+            "image": "https://m.media-amazon.com/images/I/61OwbbvdJqL.jpg",
+            "description": "Wireless Mouse"
+        },
+        {
+            "id": 6,
+            "name": "4K Ultra HD Smart TV",
+            "category": "Electronics",
+            "price": 799.99,
+            "image": "https://www.jiomart.com/images/product/original/491893311/bpl-190-5-cm-75-inch-ultra-hd-4k-android-smart-led-tv-with-dolby-vision-and-audio-75u-a4010-digital-o491893311-p592004249-0-202408062329.jpeg?im=Resize=(420,420)",
+            "description": "4K Ultra HD Smart TV"
+        },
+        {
+            "id": 7,
+            "name": "Portable External Hard Drive 2TB",
+            "category": "Storage",
+            "price": 99.99,
+            "image": "https://m.media-amazon.com/images/I/814SDu24dnL.jpg",
+            "description": "Portable External Hard Drive 2TB"
+        },
+        {
+            "id": 8,
+            "name": "USB-C Fast Charger",
+            "category": "Accessories",
+            "price": 19.99,
+            "image": "https://m.media-amazon.com/images/I/51f0VvAE4AL.jpg",
+            "description": "USB-C Fast Charger"
+        },
+        {
+            "id": 9,
+            "name": "Fitness Smartwatch",
+            "category": "Wearables",
+            "price": 149.99,
+            "image": "https://media.istockphoto.com/id/1372077120/photo/over-the-shoulder-view-of-young-asian-sports-woman-checks-her-fitness-statistics-on.jpg?s=612x612&w=0&k=20&c=BFek-9Ag5mPF2KU4_BAQV0iPDUetTaDrE4j3E5JaUcE=",
+            "description": "Fitness Smartwatch"
+        },
+        {
+            "id": 10,
+            "name": "Wireless Earbuds",
+            "category": "Electronics",
+            "price": 79.99,
+            "image": "https://m.media-amazon.com/images/I/51pycg0MGxL.jpg",
+            "description": "Wireless Earbuds"
+        },
+        {
+            "id": 11,
+            "name": "DSLR Camera",
+            "category": "Cameras",
+            "price": 1099.99,
+            "image": "https://media.istockphoto.com/id/96826250/photo/digital-camera-with-clipping-path.jpg?s=612x612&w=0&k=20&c=ceAF827zi_UfczajJAWkXowWxdu5tfisZHRoCiSq94w=",
+            "description": "DSLR Camera"
+        },
+        {
+            "id": 12,
+            "name": "Gaming Chair",
+            "category": "Furniture",
+            "price": 249.99,
+            "image": "https://media.istockphoto.com/id/1263458593/photo/black-and-red-comfortable-gaming-chair-isolated-on-a-white-background-furniture-for-computer.jpg?s=612x612&w=0&k=20&c=1HrvG6sh1q23vzDLe4QSnlZClp4tnI1BbpydLA3bYz8=",
+            "description": "Gaming Chair"
+        },
+        {
+            "id": 13,
+            "name": "Graphics Card RTX 4060",
+            "category": "Computers",
+            "price": 499.99,
+            "image": "https://m.media-amazon.com/images/I/71t1ClD2EtL.jpg",
+            "description": "Graphics Card RTX 4060"
+        },
+        {
+            "id": 14,
+            "name": "Tablet 10-inch",
+            "category": "Electronics",
+            "price": 329.99,
+            "image": "https://m.media-amazon.com/images/I/61Ie-zOQUpL.jpg",
+            "description": "Tablet 10-inch"
+        },
+        {
+            "id": 15,
+            "name": "Noise-Canceling Headphones",
+            "category": "Electronics",
+            "price": 199.99,
+            "image": "https://m.media-amazon.com/images/I/61KBlwzfUZL.jpg",
+            "description": "Noise-Canceling Headphones"
+        },
+        {
+            "id": 16,
+            "name": "Smart Home Speaker",
+            "category": "Home Automation",
+            "price": 129.99,
+            "image": "https://media.istockphoto.com/id/1211458481/photo/smart-speaker-device-in-living-room-smart-home.jpg?s=612x612&w=0&k=20&c=hJly_XBH0eDfSU6zqOLPhBwaofI2K2HOdy8BX0mw-Uc=",
+            "description": "Smart Home Speaker"
+        },
+        {
+            "id": 17,
+            "name": "Electric Toothbrush",
+            "category": "Personal Care",
+            "price": 49.99,
+            "image": "https://m.media-amazon.com/images/I/61U8eOQ57NL.jpg",
+            "description": "Electric Toothbrush"
+        },
+        {
+            "id": 18,
+            "name": "Air Purifier",
+            "category": "Home Appliances",
+            "price": 199.99,
+            "image": "https://media.istockphoto.com/id/1437264927/photo/air-purifier-in-living-room-dust-protection.jpg?s=612x612&w=0&k=20&c=c06KndUpKEz3EByPIO8kxGdqI1cMOHRbAwF-juzh-co=",
+            "description": "Air Purifier"
+        },
+        {
+            "id": 19,
+            "name": "Drone with 4K Camera",
+            "category": "Gadgets",
+            "price": 599.99,
+            "image": "https://m.media-amazon.com/images/I/61al5gk0FyL.jpg",
+            "description": "Drone with 4K Camera"
+        },
+        {
+            "id": 20,
+            "name": "VR Headset",
+            "category": "Gaming",
+            "price": 349.99,
+            "image": "https://images.unsplash.com/photo-1576633587382-13ddf37b1fc1?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8dnIlMjBoZWFkc2V0fGVufDB8fDB8fHww",
+            "description": "VR Headset"
+        }
+    ]
+}
