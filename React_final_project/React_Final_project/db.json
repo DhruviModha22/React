@@ -1,0 +1,230 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "admin@example.com",
+      "password": "admin123",
+      "role": "admin",
+      "name": "Admin User"
+    },
+    {
+      "id": 2,
+      "email": "user@example.com",
+      "password": "user123",
+      "role": "user",
+      "name": "Regular User"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "iPhone 14 Pro",
+      "price": 999.99,
+      "category": "electronics",
+      "image": "https://images.unsplash.com/photo-1678685888221-cda773a3dcdb"
+    },
+    {
+      "id": 2,
+      "title": "MacBook Air M2",
+      "price": 1299.99,
+      "category": "electronics",
+      "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8"
+    },
+    {
+      "id": 3,
+      "title": "Sony WH-1000XM4",
+      "price": 349.99,
+      "category": "electronics",
+      "image": "https://images.unsplash.com/photo-1618366712010-f4ae9c647dcb"
+    },
+    {
+      "id": 4,
+      "title": "Nike Air Max 270",
+      "price": 150.00,
+      "category": "clothing",
+      "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff"
+    },
+    {
+      "id": 5,
+      "title": "Atomic Habits",
+      "price": 24.99,
+      "category": "books",
+      "image": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c"
+    },
+    {
+      "id": 6,
+      "title": "Samsung 4K Smart TV",
+      "price": 799.99,
+      "category": "electronics",
+      "image": "https://images.unsplash.com/photo-1593784991095-a205069470b6"
+    },
+    {
+      "id": 7,
+      "title": "Levi's 501 Jeans",
+      "price": 69.99,
+      "category": "clothing",
+      "image": "https://images.unsplash.com/photo-1542272604-787c3835535d"
+    },
+    {
+      "id": 8,
+      "title": "The Psychology of Money",
+      "price": 19.99,
+      "category": "books",
+      "image": "https://images.unsplash.com/photo-1592496431122-2349e0fbc666"
+    },
+    {
+      "id": 9,
+      "title": "iPad Pro 12.9",
+      "price": 1099.99,
+      "category": "electronics",
+      "image": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0"
+    },
+    {
+      "id": 10,
+      "title": "Adidas Ultraboost",
+      "price": 180.00,
+      "category": "clothing",
+      "image": "https://images.unsplash.com/photo-1556906781-9a412961c28c"
+    },
+    {
+      "id": 11,
+      "title": "Think and Grow Rich",
+      "price": 15.99,
+      "category": "books",
+      "image": "https://images.unsplash.com/photo-1589829085413-56de8ae18c73"
+    },
+    {
+      "id": 12,
+      "title": "Dell XPS 15",
+      "price": 1799.99,
+      "category": "electronics",
+      "image": "https://images.unsplash.com/photo-1593642632823-8f785ba67e45"
+    },
+    {
+      "id": 13,
+      "title": "Ray-Ban Wayfarer",
+      "price": 154.99,
+      "category": "clothing",
+      "image": "https://images.unsplash.com/photo-1572635196237-14b3f281503f"
+    },
+    {
+      "id": 14,
+      "title": "The Alchemist",
+      "price": 12.99,
+      "category": "books",
+      "image": "https://images.unsplash.com/photo-1544947950-fa07a98d237f"
+    },
+    {
+      "id": 15,
+      "title": "Nintendo Switch OLED",
+      "price": 349.99,
+      "category": "electronics",
+      "image": "https://images.unsplash.com/photo-1578303512597-81e6cc155b3e"
+    },
+    {
+      "id": 16,
+      "title": "North Face Jacket",
+      "price": 229.99,
+      "category": "clothing",
+      "image": "https://images.unsplash.com/photo-1591047139829-d91aecb6caea"
+    },
+    {
+      "id": 17,
+      "title": "Rich Dad Poor Dad",
+      "price": 17.99,
+      "category": "books",
+      "image": "https://images.unsplash.com/photo-1626197031507-c17099753214"
+    },
+    {
+      "id": 18,
+      "title": "Canon EOS R5",
+      "price": 3899.99,
+      "category": "electronics",
+      "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32"
+    },
+    {
+      "id": 19,
+      "title": "Tommy Hilfiger Polo",
+      "price": 49.99,
+      "category": "clothing",
+      "image": "https://images.unsplash.com/photo-1576566588028-4147f3842f27"
+    },
+    {
+      "id": 20,
+      "title": "Zero to One",
+      "price": 14.99,
+      "category": "books",
+      "image": "https://images.unsplash.com/photo-1589829085413-56de8ae18c73"
+    },
+    {
+      "id": 21,
+      "title": "Bose QuietComfort 35",
+      "price": 299.99,
+      "category": "electronics",
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e"
+    },
+    {
+      "id": 22,
+      "title": "Calvin Klein Dress",
+      "price": 89.99,
+      "category": "clothing",
+      "image": "https://images.unsplash.com/photo-1539008835657-9e8e9680c956"
+    },
+    {
+      "id": 23,
+      "title": "Start with Why",
+      "price": 13.99,
+      "category": "books",
+      "image": "https://images.unsplash.com/photo-1589829085413-56de8ae18c73"
+    },
+    {
+      "id": 24,
+      "title": "GoPro Hero 10",
+      "price": 399.99,
+      "category": "electronics",
+      "image": "https://images.unsplash.com/photo-1565130838609-c3a86655db61"
+    },
+    {
+      "id": 25,
+      "title": "Timberland Boots",
+      "price": 169.99,
+      "category": "clothing",
+      "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff"
+    },
+    {
+      "id": 26,
+      "title": "The Lean Startup",
+      "price": 16.99,
+      "category": "books",
+      "image": "https://images.unsplash.com/photo-1589829085413-56de8ae18c73"
+    },
+    {
+      "id": 27,
+      "title": "DJI Mavic Air 2",
+      "price": 799.99,
+      "category": "electronics",
+      "image": "https://images.unsplash.com/photo-1579829366248-204fe8413f31"
+    },
+    {
+      "id": 28,
+      "title": "Patagonia Fleece",
+      "price": 139.99,
+      "category": "clothing",
+      "image": "https://images.unsplash.com/photo-1591047139829-d91aecb6caea"
+    },
+    {
+      "id": 29,
+      "title": "Good to Great",
+      "price": 18.99,
+      "category": "books",
+      "image": "https://images.unsplash.com/photo-1589829085413-56de8ae18c73"
+    },
+    {
+      "id": 30,
+      "title": "Fitbit Sense",
+      "price": 299.99,
+      "category": "electronics",
+      "image": "https://images.unsplash.com/photo-1575311373937-040b8e3fd6ce"
+    }
+  ]
+}
